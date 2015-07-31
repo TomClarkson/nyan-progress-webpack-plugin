@@ -40,7 +40,7 @@ var nyanProgress = prepareNyan([
 
 var nyanSuccess = prepareNyan([
   ' ,--------,      ,------.',
-  ' │▗▝ ▞ ▝ ˄---˄  / Nyan! |',
+  ' │▗▝ ▞ ▝ ˄---˄  / Nice! |',
   '~│ ▞  ▞ ❬.◕‿‿◕.❭--------’',
   ' `w-w---- w w            '
 ], [
